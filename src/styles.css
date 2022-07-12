@@ -1,0 +1,41 @@
+body {
+  background-image: url("https://www.bluwonder.com/wp-content/uploads/2020/04/Porsche-911-Carrera-4S-2.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: black;
+}
+
+h1 {
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+p {
+  color: indigo;
+  text-align: center;
+}
+
+h2 {
+  text-align: left;
+}
+
+ul {
+  font-family: "Franklin Gothic Medium";
+  font-size: 20px;
+}
+
+ul > li {
+  list-style: none;
+  background-color: red;
+}
+
+.tamanio {
+  font-size: 30px;
+  color: rgba(4, 7, 151, 0.727);
+  font-style: italic;
+}
+
+.liEspecial {
+  color: white;
+  font-style: italic;
+}
